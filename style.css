@@ -219,6 +219,9 @@
         flex-basis: 100%;
         background:#FAF4E8 ;
     }
+    #dema{
+       display: none;
+    }
 }
 
 .creative-con{
