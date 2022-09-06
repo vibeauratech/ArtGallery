@@ -61,6 +61,27 @@
     font-size: 14px;
 }
 
+.button-flex{
+    display: flex;
+    margin-top: 5%;
+}
+
+.circle{
+    margin-left: 5%;
+}
+
+.circle i{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    font-size: 14px;
+    background: #FAF4E8;
+    color: #00715D;
+    cursor: none;
+}
+
 #reel{
     background: #00715D;
     border: #00715D;
@@ -221,6 +242,9 @@
     }
     #dema{
        display: none;
+    }
+    .grid-left .item-two{
+        display: none;
     }
 }
 
