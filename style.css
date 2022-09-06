@@ -224,7 +224,7 @@
     background: #89BC81; 
 }
 
-@media screen and (max-width:768px){
+@media screen and (max-width:1024px){
     .art-hero{
         flex-direction: column;
     }
