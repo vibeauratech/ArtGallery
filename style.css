@@ -82,6 +82,17 @@
     color: #00715D;
     cursor: none;
 }
+#rotate{
+    font-size: 8px;
+}
+
+.circular-text{
+    position: relative;
+}
+
+.arrow{
+    position: relative;
+}
 
 #reel{
     background: #00715D;
