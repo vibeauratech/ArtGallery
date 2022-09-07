@@ -56,13 +56,16 @@
 
 .mind h2{
     font-size: 64px;
+    margin-top: 3%;
 }
 .mind p{
     font-size: 14px;
+    margin-top: 3%;
 }
 
 .button-flex{
     display: flex;
+    align-items: center;
     margin-top: 5%;
     margin-bottom: 10%;
 }
