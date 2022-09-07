@@ -23,6 +23,7 @@
 .nav{
     display: flex;
     justify-content: space-between;
+    align-items: center;
     width: 90%;
     margin: 0 auto;
     margin-top: 5%;
@@ -40,6 +41,13 @@
 .nav-links li a{
     color: #000;
     font-size: 14px;
+}
+
+.menu{
+    display: none;
+}
+.menu i{
+    display: none;
 }
 
 #art-flex{
@@ -116,6 +124,16 @@
     #reel{
         margin-top: 10%;
         margin-bottom: 15%;
+    }
+    .menu{
+        display: block;
+    }
+    
+
+    .menu i{
+        display: block;
+        z-index: 9999;
+        font-size: 20px;
     }
 }
 
