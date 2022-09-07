@@ -212,7 +212,7 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
-    border-radius: 10px;
+   
 }
 
 .grid-left .item-two{
@@ -242,6 +242,12 @@
     background: #89BC81; 
 }
 
+.grid-left .item-three img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
 @media screen and (max-width:1024px){
     .art-hero{
         flex-direction: column;
